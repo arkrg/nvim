@@ -11,11 +11,8 @@
    ** sudo apt-get install build-essential** or **apt-get update**
     For more information, see:
     https://docs.brew.sh/Homebrew-on-Linux
-  - We recommend that you install GCC:
+- install gcc    
     **brew install gcc**
-  - Run brew help to get started  
-  - Further documentation:
-      https://docs.brew.sh
 [PowerShell]
 - winget install win32yank
   - need to add the path to $PATH
