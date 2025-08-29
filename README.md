@@ -8,8 +8,7 @@
     echo 'eval "$(/home/linuxbrew/.linuxbrew/bin/brew shellenv)"' >> /home/arkrg/.bashrc
     eval "$(/home/linuxbrew/.linuxbrew/bin/brew shellenv)"**
   - Install Homebrew's dependencies if you have sudo access:
-   ** sudo apt-get install build-essential**
-    # 안되면 apt-get update
+   ** sudo apt-get install build-essential** or **apt-get update**
     For more information, see:
     https://docs.brew.sh/Homebrew-on-Linux
   - We recommend that you install GCC:
