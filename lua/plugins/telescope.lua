@@ -15,8 +15,7 @@ return {
     opts = {
         extensions = {
             ["ui-select"] = {
-                require("telescope.themes").get_dropdown {
-                }
+                -- This is needed to ensure the extension is loaded
             }
         },
     },
